@@ -1,0 +1,22 @@
+{
+  "name": "link-previews-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HollandPleskac/Link-Previews-Frontend.git"
+  },
+  "author": "Holland Pleskac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HollandPleskac/Link-Previews-Frontend/issues"
+  },
+  "homepage": "https://github.com/HollandPleskac/Link-Previews-Frontend#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
